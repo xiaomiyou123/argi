@@ -1,0 +1,8 @@
+{
+  "name": "Agri-OS Cloud Farm",
+  "description": "A unified smart agriculture operating system featuring a cloud desktop, enterprise dashboard, and digital twin AR experience powered by Gemini 2.5.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
